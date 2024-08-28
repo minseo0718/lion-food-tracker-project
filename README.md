@@ -1,6 +1,7 @@
 # lion-food-tracker-project
 
 ## Overview
+# Problem
 Food waste is a significant problem in America and the world. According to the
 United States Department of Agriculture (USDA), an estimated 30-40% of the food supply
 in the United States goes to waste, with a value of approximately $161 billion in 2020 alone.
@@ -18,6 +19,7 @@ could have been used to feed those in need. Furthermore, it exacerbates hunger a
 as it results in less food available to feed the population. It is crucial for individuals and
 institutions to take action to reduce food waste.
 
+# Solution
 Our solution aims to reduce food waste at university dining halls through using food
 detection and food quantity estimation AI. To do this, our team has been developing an iOS
 app using Swift that allows students to take a picture of their food and get rewards. We are
