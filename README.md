@@ -1,4 +1,4 @@
-# lion-food-tracker-project
+# Lion Food Tracker
 
 ## Overview
 ### Problem
@@ -60,4 +60,5 @@ food. The data can be viewed daily, weekly, monthly, or yearly.
 - https://www.youtube.com/watch?v=cLpWEZsU5t8
 
 ## Results
-Achieved Top 20 ranking in the idea phase of the Penn State Nittany AI Challenge, receiving a $500 prize, and earned the Dave Hall Award in the Bardusch Family IdeaMakers Challenge
+- Achieved Top 20 ranking in the idea phase of the Penn State Nittany AI Challenge, receiving a $500 prize
+- Earned the Dave Hall Award in the Bardusch Family IdeaMakers Challenge
