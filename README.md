@@ -56,7 +56,7 @@ the total amount of food served, the total amount of food wasted, the total amou
 food eaten, the most/least popular food served & wasted, and user feedback on the
 food. The data can be viewed daily, weekly, monthly, or yearly.
 
-## Video URL
+## Video & Demo URL
 - https://www.youtube.com/watch?v=cLpWEZsU5t8
 
 ## Results
